@@ -254,7 +254,7 @@ input#check{
     padding: 0;
     top: 0;
     z-index: 9999;
-    height: 140px;
+    height: 150px;
 }
 
   .wrap-logo-header{
@@ -265,8 +265,8 @@ input#check{
 }
 
   .wrap-logo-header img{
-    height: 120px;
-    width: 400px;
+    height: 110px;
+    width: 390px;
 }
 
   i.toggle-menu{
@@ -354,8 +354,8 @@ input#check{
 }
 
   .wrap-logo-header img{
-    height: 120px;
-    width: 400px;
+    height: 110px;
+    width: 375px;
 }
 
   i.toggle-menu{
@@ -452,8 +452,8 @@ input#check{
 }
 
   .wrap-logo-header img{
-    height: 120px;
-    width: 400px;
+    height: 95px;
+    width: 340px;
 }
 
   i.toggle-menu{
